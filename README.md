@@ -1,5 +1,7 @@
 # imagecount
 
+This is an example of how multithreading can be very effective.
+
 The program fetches information about movies in theaters from Rotten Tomatoes,
 extracts IMDB ids from that information and determines number of images
 displayed on IMDB website for each such movie page.
